@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dermaphoto/static/css/main.69eda509.chunk.css",
+    "main.js": "/dermaphoto/static/js/main.d1c751c1.chunk.js",
+    "main.js.map": "/dermaphoto/static/js/main.d1c751c1.chunk.js.map",
+    "runtime-main.js": "/dermaphoto/static/js/runtime-main.f563eb7e.js",
+    "runtime-main.js.map": "/dermaphoto/static/js/runtime-main.f563eb7e.js.map",
+    "static/css/2.c9d9291a.chunk.css": "/dermaphoto/static/css/2.c9d9291a.chunk.css",
+    "static/js/2.291ef000.chunk.js": "/dermaphoto/static/js/2.291ef000.chunk.js",
+    "static/js/2.291ef000.chunk.js.map": "/dermaphoto/static/js/2.291ef000.chunk.js.map",
+    "index.html": "/dermaphoto/index.html",
+    "precache-manifest.fb0048915552d665d02182418e842321.js": "/dermaphoto/precache-manifest.fb0048915552d665d02182418e842321.js",
+    "service-worker.js": "/dermaphoto/service-worker.js",
+    "static/css/2.c9d9291a.chunk.css.map": "/dermaphoto/static/css/2.c9d9291a.chunk.css.map",
+    "static/css/main.69eda509.chunk.css.map": "/dermaphoto/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.291ef000.chunk.js.LICENSE.txt": "/dermaphoto/static/js/2.291ef000.chunk.js.LICENSE.txt",
+    "static/media/female.png": "/dermaphoto/static/media/female.6434d72c.png",
+    "static/media/male.png": "/dermaphoto/static/media/male.9210da3d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f563eb7e.js",
+    "static/css/2.c9d9291a.chunk.css",
+    "static/js/2.291ef000.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.d1c751c1.chunk.js"
+  ]
+}
