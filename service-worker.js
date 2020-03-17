@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dermaphoto/precache-manifest.fb0048915552d665d02182418e842321.js"
+  "/dermaphoto/precache-manifest.c6f919fe50e6d30dc41cf6c7e7744367.js"
 );
 
 self.addEventListener('message', (event) => {
